@@ -1,2 +1,2 @@
-# ajs18-4test-ci_2matchers
-[![Build status](https://ci.appveyor.com/api/projects/status/9d87q47c6dtfiwkc?svg=true)](https://ci.appveyor.com/project/irlen3/ajs18-4test-ci-2matchers)
+# ajs_6object_1sort
+[![Build status](https://ci.appveyor.com/api/projects/status/iuynp1j9o63y1dw7?svg=true)](https://ci.appveyor.com/project/irlen3/ajs-6object-1sort)
